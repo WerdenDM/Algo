@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab1/hash.hpp
+vector
+-
+algorithm
+-
+cassert
+-
+fstream
+-
+string
+-
+cstring
+-
+
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab1/main.cpp
+struct.hpp
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab1/struct.hpp
+hash.hpp
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab1/hash.hpp
+iostream
+-
+array
+-
+utility
+-
+
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab1/struct.hpp
+vector
+-
+string
+-
+

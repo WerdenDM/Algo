@@ -1,0 +1,3 @@
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

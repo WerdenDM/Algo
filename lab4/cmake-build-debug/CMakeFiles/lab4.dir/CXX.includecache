@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Downloads/university_labs-master/university_labs-master/semester4/algorithms/lab4/main.cpp
+iostream
+-
+queue
+-
+vector
+-
+array
+-
+string
+-
+fstream
+-
+algorithm
+-
+iostream
+-
+map
+-
+iomanip
+-
+cstdint
+-
+struct.hpp
+-
+
